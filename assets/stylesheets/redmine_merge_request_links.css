@@ -3,10 +3,10 @@ div#issue-changesets {
 }
 
 div#issue-merge-requests {
-  float: right;
-  width: 45%;
-  margin: 1em 0 2em 1em;
-  padding-left: 1em;
+    /* float: right; */
+   /* width: 45%; */
+   margin: 1em 0;
+   /* padding-left: 1em; */
 }
 
 @media screen and (max-width: 899px) {
